@@ -1,6 +1,8 @@
 # Dashboard Collection
-![image](https://github.com/user-attachments/assets/990538f1-e518-40ba-af29-5f13215e7a2d)
-![image](https://github.com/user-attachments/assets/78a59993-9d53-445a-b116-6ee96e4a4b31)
+![image](https://github.com/user-attachments/assets/c2056e12-ec0c-44d8-ae5e-5d1dacd743bc)
+
+![image](https://github.com/user-attachments/assets/64a226a4-57a6-4ba5-8bb8-eefc177b28e0)
+
 
 ## Sales Dashboard
 This sales dashboard provides an insightful overview of sales performance, regional trends, product distribution, and customer information. The key features include:
